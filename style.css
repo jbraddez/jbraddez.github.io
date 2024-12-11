@@ -41,6 +41,12 @@ header{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
+@media screen and (max-width: 320px){
+    header{
+        height: 40px
+    }
+}
+
 .linkedin-cont{
     width: 40px;
     height: 40px;
